@@ -3,7 +3,7 @@
 body {
   font-family: Arial, sans-serif;
   padding: 20px;
-  background-image: url("/Quiz App/Image/bg.png");
+  background-image: url("Image/bg.png");
   background-size: cover;
   display: flex;
   justify-content: center;
